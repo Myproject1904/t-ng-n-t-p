@@ -1,0 +1,21 @@
+pre {
+  color: rgb(249, 255, 255);
+  font-style: italic;
+  text-emphasis: none;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  :bold ;
+}
+
+h1 {
+  color: rgb(224, 222, 226);
+}
+
+body {
+  background-color: rgb(121, 119, 119);
+}
+h2 {
+  color: rgb(220, 217, 217);
+  font-weight: bold;
+}
